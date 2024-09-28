@@ -1,0 +1,9 @@
+server.port: 8081
+#spring:
+#  datasource:
+#    url: jdbc:h2:mem:pocs-and-tests
+#    username: sa
+#    password: pass
+#    driverClassName: org.h2.Driver
+#  jpa:
+#    spring.jpa.database-platform: org.hibernate.dialect.H2Dialect
